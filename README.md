@@ -1,6 +1,7 @@
 #Twitter-@WeRateDogs
 This Project involves the data analysis of twitter channel @WeRateDogs.
-Responsibilites:
+
+### Responsibilites:
 1. Gathering the data using Twitter API with the help of python library Tweepy.
 2. Parsing the json results from API and store it in appropriate format.
 2. Assessing and Cleaning the data.
