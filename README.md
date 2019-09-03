@@ -1,4 +1,5 @@
-#Twitter-@WeRateDogs
+# Twitter-@WeRateDogs
+
 This Project involves the data analysis of twitter channel @WeRateDogs.
 
 ### Responsibilites:
